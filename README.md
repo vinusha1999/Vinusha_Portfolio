@@ -1,5 +1,4 @@
 # Vinusha_Portfolio
-Data Analytics Portfolio
 
 ## About Me
 
@@ -28,11 +27,11 @@ Currently, I am expanding my expertise in the **data science domain** by pursuin
 * LinkedIn: https://www.linkedin.com/in/vinusha-martis-098360251/
 * Email: vinushaprabash777@gmail.com
 
-* -----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-* ## Projects
+* # Projects
 
-* # Bank-Churn-Analysis
+* ## Bank-Churn-Analysis
 Bank Churn Analysis using SQL
 
 ### Overview
