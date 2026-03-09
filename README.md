@@ -39,7 +39,7 @@ Currently, I am expanding my expertise in the **data science domain** by pursuin
 
 ## SQL Projects
 
-### Retail Sales Analysis
+### Bank Churn Analysis
 
 🔗 Repository: https://github.com/vinusha1999/Bank-Churn-Analysis
 
