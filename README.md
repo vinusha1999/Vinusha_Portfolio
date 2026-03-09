@@ -31,29 +31,16 @@ Currently, I am expanding my expertise in the **data science domain** by pursuin
 
 * # Projects
 
-* ## Bank Churn Analysis - SQL
+## Power BI Projects
 
-### Overview
+### Financial Investment Dashboard
 
-Performed customer churn analysis using SQL to explore customer behavior and identify patterns that may indicate churn risk.
+🔗 Repository: https://github.com/vinusha1999/Financial-Analysis---Dashboard
 
-### Tools
+## SQL Projects
 
-* MS SQL Server
-* SQL
+### Retail Sales Analysis
 
-### Key Steps
+🔗 Repository: https://github.com/vinusha1999/Bank-Churn-Analysis
 
-* Performed **data cleaning and transformation** using CASE statements, joins, aggregations, and filtering.
-* Conducted **exploratory data analysis (EDA)** using GROUP BY, HAVING, subqueries, and window functions (ROW_NUMBER, RANK, NTILE).
-* Used **Common Table Expressions (CTEs)** to structure complex queries.
-* Implemented **RFM (Recency, Frequency, Monetary) analysis** for customer segmentation.
-
-### Outcome
-
-Identified customer behavior patterns and high-value customer segments that can support churn reduction strategies and targeted business decisions.
-
-### Repository
-
-https://github.com/vinusha1999/Bank-Churn-Analysis
 
