@@ -32,7 +32,7 @@ Currently, I am expanding my expertise in the **data science domain** by pursuin
 * # Projects
 
 * ## Bank Churn Analysis - SQL
-* 
+
 ### Overview
 
 Performed customer churn analysis using SQL to explore customer behavior and identify patterns that may indicate churn risk.
