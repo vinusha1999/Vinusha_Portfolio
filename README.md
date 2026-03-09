@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm **Vinusha Modarage** 👋
+Hi, I'm **Vinusha Modarage**
 
 I hold a **Bachelor’s degree in Mathematics** and have **3+ years of professional experience as a Data Analyst**, specializing in **SQL,Power BI and Python** to deliver business intelligence solutions and automated reporting systems.
 
